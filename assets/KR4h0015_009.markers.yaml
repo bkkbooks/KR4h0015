@@ -27,7 +27,6 @@ markers:
 
       ', id: KR4h0015_krp_009-bkkkrnewl6}
   - {type: line-break, offset: 85, content: '', id: KR4h0015_WYG_009-1a06}
-  - {type: substitution, offset: 86, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4332}}
   - {type: 'kr:newline', offset: 106, content: '
 
       ', id: KR4h0015_krp_009-bkkkrnewl7}
@@ -52,12 +51,10 @@ markers:
 
       ', id: KR4h0015_krp_009-bkkkrnewl12}
   - {type: line-break, offset: 190, content: '', id: KR4h0015_WYG_009-1b03}
-  - {type: substitution, offset: 210, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4393}}
   - {type: 'kr:newline', offset: 211, content: '
 
       ', id: KR4h0015_krp_009-bkkkrnewl13}
   - {type: line-break, offset: 211, content: '', id: KR4h0015_WYG_009-1b04}
-  - {type: substitution, offset: 216, original: 儗, replacement: 擬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0299}}
   - {type: 'kr:newline', offset: 232, content: '
 
       ', id: KR4h0015_krp_009-bkkkrnewl14}
@@ -66,9 +63,8 @@ markers:
 
       ', id: KR4h0015_krp_009-bkkkrnewl15}
   - {type: line-break, offset: 253, content: '', id: KR4h0015_WYG_009-1b06}
-  - {type: substitution, offset: 254, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: 'kr:newline', offset: 264, content: '
 
       ', id: KR4h0015_krp_009-bkkkrnewl16}
   back: []
-hash: sha256:95314234023a3256bdb3d01861037003255d423bf7945f987fd2d6f39dc3ce0e
+hash: sha256:0dcb24c2ce00e9453112cea01eee3b896d30665634441a15c5e1d6d2768d7d42
